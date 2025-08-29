@@ -25,7 +25,7 @@ const Navigation = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
             <img 
-              src="/lovable-uploads/330b8932-e0fd-46cb-8991-5dd8e3305bc8.png" 
+              src="/lovable-uploads/b618d048-1807-45f4-84d9-6521ea719680.png" 
               alt="TIBU Health-Connect Logo" 
               className="h-10 w-auto"
             />
