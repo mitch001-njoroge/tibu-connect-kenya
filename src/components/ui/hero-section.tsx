@@ -48,7 +48,7 @@ const HeroSection = () => {
           <div className="relative">
             <div className="relative z-10 rounded-2xl overflow-hidden shadow-healthcare">
               <img
-                src="/lovable-uploads/b618d048-1807-45f4-84d9-6521ea719680.png"
+                src="/lovable-uploads/330b8932-e0fd-46cb-8991-5dd8e3305bc8.png"
                 alt="Healthcare Connection"
                 className="w-full h-auto"
               />
